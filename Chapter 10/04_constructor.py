@@ -21,4 +21,4 @@ vikas = Employee("Vikas", 1300000, "JavaScript")
 # vikas.name = "Vikas"
 print(vikas.name, vikas.salary, vikas.language)
 
-# rohan = Employee()
+rohan = Employee()
